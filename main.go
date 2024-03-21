@@ -1,7 +1,6 @@
 package main
 
 import "github.com/gen2brain/raylib-go/raylib"
-import _ "github.com/go-gl/glfw/v3.3/glfw"
 import "fmt"
 
 const WINDOW_WIDTH = 1280
